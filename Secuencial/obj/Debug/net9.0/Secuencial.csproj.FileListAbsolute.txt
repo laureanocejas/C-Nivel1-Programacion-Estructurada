@@ -1,0 +1,14 @@
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.AssemblyInfoInputs.cache
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.AssemblyInfo.cs
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\bin\Debug\net9.0\Secuencial.exe
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\bin\Debug\net9.0\Secuencial.deps.json
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\bin\Debug\net9.0\Secuencial.runtimeconfig.json
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\bin\Debug\net9.0\Secuencial.dll
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\bin\Debug\net9.0\Secuencial.pdb
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.dll
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\refint\Secuencial.dll
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.pdb
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\Secuencial.genruntimeconfig.cache
+C:\Users\Laureano\OneDrive\Documentos\Curso C# Nivel1\C#-Ejercicios\Secuencial\obj\Debug\net9.0\ref\Secuencial.dll
