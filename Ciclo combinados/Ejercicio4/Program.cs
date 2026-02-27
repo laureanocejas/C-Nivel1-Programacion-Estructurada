@@ -23,13 +23,13 @@ namespace Ejercicio4
             d. La venta con mayor importe de cada tipo de aventura.
             e. El paquete con menos horas incurridlas y en qué tipo de actividad fue. */
 
-            int numPaquete, cantPersonas, hsTotalesActividades, cantPaquetes;
-            double precioPersona, monto, acumVenta;
+            int numPaquete, cantPersonas, hsTotalesActividades;
+            double precioPersona, monto;
             string tipoAventura, tipoActualizado;
 
             // Variables para totales generales
             int cantTotalPersonas = 0;
-            int maxVenta = 0, minHs = 0;
+            int  minHs = 0;
             int paqueteMinHs = 0;
             string tipoAvenMin = "";
             bool primerPaquete = true;// Bandera para el primer mínimo
@@ -111,7 +111,7 @@ namespace Ejercicio4
                 }
                 // Informes por cada Tipo de Aventura (al cerrar el grupo)
                 Console.WriteLine($"\n*** RESUMEN TIPO {tipoActualizado} ***");
-                Console.WriteLine($"La venta con mayor importe es de: {maxVenta}");
+                Console.WriteLine($"La venta con mayor importe es de: {maxVentaTipo}");
                 Console.WriteLine($"La cantidad de paquetes vendidos es: {cantPaquetesTipo}");
                 Console.WriteLine("*********************************\n");
 
